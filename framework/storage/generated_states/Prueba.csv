@@ -1,0 +1,8 @@
+Problem Name,Initial State
+NPuzzle,(1, 7, 4, 2, 6, 3, 0, 8, 5)
+NQueens,[-1, -1, 0, 2, -1, -1]
+Romania,('Iasi', 'Mehadia')
+Romania,('Neamt', 'Neamt')
+Romania,('Mehadia', 'Sibiu')
+Romania,('Rimnicu', 'Timisoara')
+Romania,('Sibiu', 'Mehadia')
